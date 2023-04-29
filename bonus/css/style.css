@@ -191,3 +191,13 @@ img {
         font-size: 1.2rem;
     }
 }
+
+/* BONUS */
+
+@media screen and (max-width: 1160px) {
+
+    .container{
+        width: 100vw;
+    }
+    
+}
